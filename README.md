@@ -12,3 +12,4 @@ This is my personal CV website created using HTML and CSS.
 - Pink-themed responsive design
 
 ## Live Website
+https://porchesense04-sudo.github.io/MyCV/
